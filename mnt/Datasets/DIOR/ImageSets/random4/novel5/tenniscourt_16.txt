@@ -1,0 +1,10 @@
+D:\FangX24\code\LO-Det-main\mnt\Datasets\DIOR\JPEGImages\02425.jpg 184,79,273,273,16
+D:\FangX24\code\LO-Det-main\mnt\Datasets\DIOR\JPEGImages\04478.jpg 579,382,645,526,16
+D:\FangX24\code\LO-Det-main\mnt\Datasets\DIOR\JPEGImages\00118.jpg 458,375,519,506,16
+D:\FangX24\code\LO-Det-main\mnt\Datasets\DIOR\JPEGImages\11532.jpg 287,325,361,484,16
+D:\FangX24\code\LO-Det-main\mnt\Datasets\DIOR\JPEGImages\06289.jpg 595,522,629,595,16
+D:\FangX24\code\LO-Det-main\mnt\Datasets\DIOR\JPEGImages\09808.jpg 420,465,496,629,16
+D:\FangX24\code\LO-Det-main\mnt\Datasets\DIOR\JPEGImages\06760.jpg 416,223,646,488,16
+D:\FangX24\code\LO-Det-main\mnt\Datasets\DIOR\JPEGImages\11283.jpg 393,667,427,738,16
+D:\FangX24\code\LO-Det-main\mnt\Datasets\DIOR\JPEGImages\08427.jpg 276,98,366,294,16
+D:\FangX24\code\LO-Det-main\mnt\Datasets\DIOR\JPEGImages\04176.jpg 239,91,322,265,16
