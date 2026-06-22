@@ -1,1 +1,6 @@
-
+D:\FangX24\code\LO-Det-main\mnt\Datasets\NWPU\JPEGImages\\00027.jpg 39,120,108,197,0
+D:\FangX24\code\LO-Det-main\mnt\Datasets\NWPU\JPEGImages\\00563.jpg 585,139,654,194,0
+D:\FangX24\code\LO-Det-main\mnt\Datasets\NWPU\JPEGImages\\00037.jpg 149,366,215,442,0
+D:\FangX24\code\LO-Det-main\mnt\Datasets\NWPU\JPEGImages\\00011.jpg 683,590,739,644,0
+D:\FangX24\code\LO-Det-main\mnt\Datasets\NWPU\JPEGImages\\00024.jpg 508,88,562,143,0
+D:\FangX24\code\LO-Det-main\mnt\Datasets\NWPU\JPEGImages\\00510.jpg 144,279,203,345,0
