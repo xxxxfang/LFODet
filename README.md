@@ -15,11 +15,12 @@ The few-shot split files used in our experiments are provided under mnt/Datasets
 For each K-shot setting:
 
 fs_K.txt      # novel-class K-shot samples
-fs_b_K.txt    # base + novel K-shot samples used by LFODet
+fs_b_K.txt    # base + novel K-shot samples
 novelK/       # support/query files for meta-style tasks
 
-For LFODet fine-tuning, we use fs_b_3.txt,fs_b_5.txt and fs_b_10.txt.
-(If you want to generate a new few-shot list, you can run the following file randon.py)
+If you want to generate a new few-shot list, you can run the following file randon.py
+
+NOTE:If the dataset paths after sampling differ from your local paths, we have provided a path conversion script:fix_random.py.Just modify the paths in the script and run it.
 
 VOC Format：
 You need to write a script to convert them into the train.txt file required by this repository and put them in the ./data folder.  
@@ -45,7 +46,7 @@ python T_trainHBB.py (The training weights need to be saved)
 python Three_trainHBB_meta.py（The training weights need to be saved）
 
 3）Few-Shot Fine-Tuning (if you only want to run the third step of fine-tuning,we provide the weights for the base training and meta-training phases.)
-python Three_trainHBB_FS_2.py
+python Three_trainHBB_FS.py
 
 ## Contact
 
