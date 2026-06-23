@@ -1,0 +1,6 @@
+D:\Projects\LFODet-main\mnt\Datasets\NWPU\JPEGImages\\00604.jpg 296,16,352,86,8
+D:\Projects\LFODet-main\mnt\Datasets\NWPU\JPEGImages\\00173.jpg 245,105,367,167,8
+D:\Projects\LFODet-main\mnt\Datasets\NWPU\JPEGImages\\00540.jpg 89,109,231,268,8
+D:\Projects\LFODet-main\mnt\Datasets\NWPU\JPEGImages\\00585.jpg 260,132,385,206,8
+D:\Projects\LFODet-main\mnt\Datasets\NWPU\JPEGImages\\00185.jpg 247,169,447,292,8
+D:\Projects\LFODet-main\mnt\Datasets\NWPU\JPEGImages\\00180.jpg 199,201,310,382,8

@@ -1,0 +1,10 @@
+D:\Projects\LFODet-main\mnt\Datasets\NWPU\JPEGImages\\00027.jpg 1014,432,1068,487,0
+D:\Projects\LFODet-main\mnt\Datasets\NWPU\JPEGImages\\00044.jpg 117,326,187,411,0
+D:\Projects\LFODet-main\mnt\Datasets\NWPU\JPEGImages\\00532.jpg 551,103,617,171,0
+D:\Projects\LFODet-main\mnt\Datasets\NWPU\JPEGImages\\00037.jpg 816,478,905,573,0
+D:\Projects\LFODet-main\mnt\Datasets\NWPU\JPEGImages\\00574.jpg 271,202,319,255,0
+D:\Projects\LFODet-main\mnt\Datasets\NWPU\JPEGImages\\00031.jpg 265,86,344,175,0
+D:\Projects\LFODet-main\mnt\Datasets\NWPU\JPEGImages\\00051.jpg 830,324,874,383,0
+D:\Projects\LFODet-main\mnt\Datasets\NWPU\JPEGImages\\00051.jpg 65,249,159,341,0
+D:\Projects\LFODet-main\mnt\Datasets\NWPU\JPEGImages\\00062.jpg 846,394,938,503,0
+D:\Projects\LFODet-main\mnt\Datasets\NWPU\JPEGImages\\00006.jpg 295,420,347,470,0
