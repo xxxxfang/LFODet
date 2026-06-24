@@ -15,7 +15,7 @@ The few-shot split files used in our experiments are provided under mnt/Datasets
 For each K-shot setting:
 
 fs_K.txt      # novel-class K-shot samples
-fs_b_K.txt    # base + novel K-shot samples
+fs_b_K.txt    # base + novel K-shot samples for LFODET
 novelK/       # support/query files for meta-style tasks
 
 If you want to generate a new few-shot list, you can run the following file randon.py
