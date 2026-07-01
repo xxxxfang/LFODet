@@ -1,5 +1,5 @@
 # LFODet:Lightweight Few-Shot Object Detection with Meta-Learning in Remote Sensing Images
-This repository provides the source code of **LFODet: Lightweight Few-Shot Object Detection with Meta-Learning in Remote Sensing Images**. LFODet is designed for few-shot object detection in remote sensing images and is evaluated on the DIOR and NWPU VHR-10 datasets.
+This repository provides the source code of **LFODet: Lightweight Few-Shot Object Detection with Meta-Learning in Remote Sensing Images**. LFODet is designed for few-shot object detection in remote sensing images and is evaluated on the DIOR and NWPU VHR-10 datasets.https://github.com/xxxxfang/LFODet/blob/main/README.md
 
 ## Requirements：
 Refer to https://github.com/Shank2358/LO-Det
@@ -18,7 +18,7 @@ fs_K.txt      # novel-class K-shot samples
 fs_b_K.txt    # base + novel K-shot samples for LFODET
 novelK/       # support/query files for meta-style tasks
 
-If you want to generate a new few-shot list, you can run the following file randon.py
+If you want to generate a new few-shot list, you can run the following file random_Finetuning.py(Finetuning) or random_meta.py(meta)
 
 NOTE:If the dataset paths after sampling differ from your local paths, we have provided a path conversion script:fix_random.py.Just modify the paths in the script and run it.
 
